@@ -41,4 +41,4 @@ This is the repository for the mods required for the Nebula SMP.
 
 > How do I configure shaders in Iris shaders?
 
-Refer to the [shaders](https://github.com/esolang/nebulasmp/blob/main/README.md) folder.
+Refer to the [shaders](https://github.com/esolang/nebulasmp/tree/main/shaders) folder.
