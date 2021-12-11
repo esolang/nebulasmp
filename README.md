@@ -4,11 +4,6 @@ This is the repository for the mods required for the Nebula SMP.
 
 ### NOTICE: YOU CAN INSTALL THE LATEST VERSION OF FABRIC, HOWEVER I HAVE NOT TESTED IT
 
-## Table of Contents
-
-- [Installation](https://github.com/esolang/nebulasmp#installation)
-- [FAQ](https://github.com/esolang/nebulasmp#faq)
-
 ## Prerequisites
 
 - [Fabric 0.10.2](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.jar)
