@@ -2,11 +2,11 @@
 
 This is the repository for the mods required for the Nebula SMP.
 
-### NOTICE: YOU CAN INSTALL THE LATEST VERSION OF FABRIC, HOWEVER I HAVE NOT TESTED IT
+### NOTICE: INSTALLING THE LATEST VERSION OF FABRIC MAY CAUSE UNINTENDED ISSUES
 
 ## Prerequisites
 
-- [Fabric 0.10.2](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.jar)
+- [Fabric Installer 0.10.2](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.jar)
 - [modpack_required](https://github.com/esolang/nebulasmp/releases/download/v1.0/modpack_required.rar) **OR** [modpack_recommended](https://github.com/esolang/nebulasmp/releases/download/v1.0/modpack_recommended.rar)
 - a brain
 
@@ -14,7 +14,7 @@ This is the repository for the mods required for the Nebula SMP.
 
 1. Open Fabric Installer and install the Client version. 
    - Minecraft Version `1.18`
-   - Loader Version `0.12.8`
+   - Loader Version `0.12.11`
 2. Navigate to your mods folder.
    - Windows
      - Press `Win + R` and type `%appdata%`.
