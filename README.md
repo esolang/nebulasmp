@@ -7,7 +7,7 @@ This is the repository for the mods required for the Nebula SMP.
 ## Prerequisites
 
 - [Fabric Installer 0.10.2](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.jar)
-- [modpack_required](https://github.com/esolang/nebulasmp/releases/download/v1.0/modpack_required.rar) **OR** [modpack_recommended](https://github.com/esolang/nebulasmp/releases/download/v1.0/modpack_recommended.rar)
+- [modpack_required **OR** modpack_recommended](https://github.com/esolang/nebulasmp/releases)
 - a brain
 
 ## Installation
